@@ -32,7 +32,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/madan-stha">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	
-      </div>
+
 
 </p>
 
