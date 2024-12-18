@@ -5,7 +5,7 @@
 <!-- Centering the GIF using a div with text-align:center -->
 <div align="center">
   <a target="_blank">
-    <img top="100" height="400" width="600" alt="GIF" src="https://i.imgur.com/hogWfkd.gif">
+    <img top="100" height="400" width="700" alt="GIF" src="https://i.imgur.com/hogWfkd.gif">
   </a>
 </div>
 
