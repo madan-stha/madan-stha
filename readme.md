@@ -9,8 +9,6 @@
   </a>
 </div>
 
-- 🔭 I’m currently working in <a href="https://scieverinc.com/" target="blank">Sciever Inc Pvt. Ltd.</a>
-
 - 🌱 I’m currently Working on Backend Development(NestJS & Express)
 
 - 🤝 I’m available for freelancing.
